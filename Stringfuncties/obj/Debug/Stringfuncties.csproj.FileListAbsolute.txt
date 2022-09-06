@@ -1,0 +1,7 @@
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\bin\Debug\Stringfuncties.exe.config
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\bin\Debug\Stringfuncties.exe
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\bin\Debug\Stringfuncties.pdb
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\obj\Debug\Stringfuncties.csproj.AssemblyReference.cache
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\obj\Debug\Stringfuncties.csproj.CoreCompileInputs.cache
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\obj\Debug\Stringfuncties.exe
+C:\Users\Dennis Nijs\Documents\School\Programmeren Jaar 1\1e semester\Inleiding tot programmeren\Les 7 - Stringfuncties\Stringfuncties\Stringfuncties\obj\Debug\Stringfuncties.pdb
